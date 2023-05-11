@@ -1,11 +1,19 @@
-# Start your own "Can of Books" App
+# Can-of-Books Backend
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Author**: Paisley Simpson
+**Version**: 1.0.1
 
-## What can books do?
+## Overview
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Getting Started
 
-## Use this template
+## Architecture
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+## Change Log
+
+**11/05/2023 - 18:30** - initial set up of repository.
+**11/05/2023 - 19:04** - Set up books database and '/books' endpoint.
+
+## Estimates
+
+## Credit and Collaborations
